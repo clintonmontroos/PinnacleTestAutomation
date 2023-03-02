@@ -1,2 +1,2 @@
 # PinnacleTestAutomation
-This repository contains test automation for the Pinnacle Website
+This repository contains UI Test Automation for the Pinnacle Website
